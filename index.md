@@ -1,4 +1,4 @@
-![](/assets/balancing.equation.png)
+![](/balancing.equation.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Potenti nullam ac tortor vitae. Donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Ut eu sem integer vitae justo eget magna fermentum iaculis. Eget mi proin sed libero. Aliquet enim tortor at auctor urna nunc id cursus. A scelerisque purus semper eget duis at tellus at urna. Facilisis gravida neque convallis a cras semper. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin nibh. Faucibus scelerisque eleifend donec pretium vulputate sapien. Volutpat est velit egestas dui id ornare arcu odio.
 
